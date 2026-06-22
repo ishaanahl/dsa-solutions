@@ -1,6 +1,6 @@
 # DSA Solutions
 
-Structured problem-solving practice in Python and C++.  
+Structured problem-solving practice in C++.  
 Problems sourced from LeetCode and GFG, organized by topic.
 
 ## Topics
