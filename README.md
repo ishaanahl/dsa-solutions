@@ -13,9 +13,7 @@ Problems sourced from LeetCode and GFG, organized by topic.
 | Linked Lists | 0 |
 
 ## Structure
-Each file is named after the problem. Solution includes:
-- Approach explanation (in comments)
-- Time & space complexity
+Each file is named after the problem.
 
 ## Platforms
 - [LeetCode](https://leetcode.com)
