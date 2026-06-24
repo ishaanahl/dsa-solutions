@@ -16,5 +16,5 @@ Problems sourced from LeetCode and GFG, organized by topic.
 Each file is named after the problem.
 
 ## Platforms
-- [LeetCode](https://leetcode.com)
+- [LeetCode](https://leetcode.com/u/ishaanahl/)
 - [GeeksforGeeks](https://geeksforgeeks.org)
