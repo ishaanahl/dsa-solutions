@@ -6,7 +6,7 @@ Problems sourced from LeetCode and GFG, organized by topic.
 ## Topics
 | Topic | Problems Solved |
 |-------|----------------|
-| Arrays | 1 |
+| Arrays | 2 |
 | Strings | 0 |
 | Recursion | 0 |
 | Sorting | 0 |
